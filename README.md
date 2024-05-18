@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThekidSmiso
+- 👀 I’m interested in ... data science 
+- 🌱 I’m currently learning ...java
+- 
